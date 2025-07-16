@@ -2,7 +2,7 @@
   
 💼 Desenvolvedor Backend | Java, Spring Boot, Kotlin  
 🚀 Apaixonado por tecnologia e resolução de problemas  
-📫 Contato: pedroqne@email.com  
+📫 Contato: pedro.conceicao2014@gmail.com 
 
 ## 🔧 Tecnologias & Ferramentas
 
@@ -14,7 +14,6 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-...
 
 <div>
 <a href="https://github.com/pedroqne">
