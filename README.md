@@ -29,13 +29,7 @@ Me chamo Pedro Silva, sou apaixonado por tecnologia e movido por desafios que en
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroqne&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroqne&theme=tokyonight&layout=compact&custom_title=Linguagens Mais Usadas&langs_count=8" 
-  />
-</p>
+  
 
 <br><br><br><br><br><br><br><br><br><br>
 
