@@ -6,7 +6,6 @@ Me chamo Pedro Silva, sou apaixonado por tecnologia e movido por desafios que en
 
 
 <br>
----
 
 ### 🚀 Tecnologias & Ferramentas
 
