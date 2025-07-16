@@ -5,7 +5,7 @@
 Me chamo Pedro Silva, sou apaixonado por tecnologia e movido por desafios que envolvem arquitetura de sistemas, backend e mensageria. Tenho experiência com desenvolvimento de APIs RESTful utilizando Java com Spring Boot e C# com .NET Framework. Também estou sempre buscando aprimorar meus conhecimentos em microsserviços, mensageria com RabbitMQ, containers com Docker e banco de dados. Meu objetivo é construir soluções escaláveis e bem estruturadas, alinhadas às boas práticas do mercado.
 
 
-<br><br>
+<br>
 ---
 
 ### 🚀 Tecnologias & Ferramentas
@@ -20,8 +20,7 @@ Me chamo Pedro Silva, sou apaixonado por tecnologia e movido por desafios que en
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
-<br><br>
+<br>
 
 ---
 
@@ -33,9 +32,7 @@ Me chamo Pedro Silva, sou apaixonado por tecnologia e movido por desafios que en
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroqne&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
-  
-
-<br><br>
+<br>
 
 ---
 
