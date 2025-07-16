@@ -11,6 +11,7 @@ Me chamo Pedro Silva, sou apaixonado por tecnologia e movido por desafios que en
 
 ### 🚀 Tecnologias & Ferramentas
 
+<br>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="40" height="40" style="margin-right: 10px;" />
