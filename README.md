@@ -4,6 +4,8 @@
 
 Me chamo Pedro Silva, sou apaixonado por tecnologia e movido por desafios que envolvem arquitetura de sistemas, backend e mensageria. Tenho experiência com desenvolvimento de APIs RESTful utilizando Java com Spring Boot e C# com .NET Framework. Também estou sempre buscando aprimorar meus conhecimentos em microsserviços, mensageria com RabbitMQ, containers com Docker e banco de dados. Meu objetivo é construir soluções escaláveis e bem estruturadas, alinhadas às boas práticas do mercado.
 
+
+<br><br><br><br><br>
 ---
 
 ### 🚀 Tecnologias & Ferramentas
@@ -19,6 +21,8 @@ Me chamo Pedro Silva, sou apaixonado por tecnologia e movido por desafios que en
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+<br><br><br><br><br>
+
 ---
 
 ### 📊 Estatísticas GitHub
@@ -31,7 +35,7 @@ Me chamo Pedro Silva, sou apaixonado por tecnologia e movido por desafios que en
 
   
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
 
 ---
 
